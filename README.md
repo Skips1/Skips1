@@ -17,4 +17,4 @@ Saaa
 
 
 
-<iframe src="https://giphy.com/embed/pWhWtKdqwOAco" width="343" height="480">
+<img src="https://giphy.com/embed/pWhWtKdqwOAco" width="343" height="480">
