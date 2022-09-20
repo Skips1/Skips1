@@ -1,1 +1,1 @@
-<img src="[https://giphy.com/gifs/8vIFoKU8s4m4CBqCao](https://giphy.com/clips/iontelevision-macgyver-macgyveronion-fF6n77y4kzDMZlVSwL)" align="right" width="300" height="250">
+<iframe src="https://giphy.com/embed/8vIFoKU8s4m4CBqCao" width="480" height="311" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/8vIFoKU8s4m4CBqCao">via GIPHY</a></p>
