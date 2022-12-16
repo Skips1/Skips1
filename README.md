@@ -4,8 +4,10 @@
 
 
 <div id="header" align="center">
-  <img src="<img src="https://media.giphy.com/media/JIN3ZlPCCrAd5SfM1x/giphy.gif" " height="250" width="600"/>
-
+  <img src="https://media.giphy.com/media/8RGqzssQ7fCKBaGBRA/giphy.gif" width="600"/>
+  
+  
+  
 
 
 #### Let me tell you a little about myself.
