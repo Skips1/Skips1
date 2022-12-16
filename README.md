@@ -40,6 +40,7 @@ See you...
   [![telegram](https://img.shields.io/badge/İnstagram-ff69b4?logo=instagram&logoColor=white)](https://www.instagram.com/skips_exe/)
   [![telegram](https://img.shields.io/badge/Discord-9cf?logo=discord&logoColor=white)](https://discordapp.com/users/1037394800682471605)
   [![telegram](https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCoKU0DM_X5Mym_4VxfI5tYA)
+  [![telegram](https://img.shields.io/badge/Medium-lightgrey?logo=medium&logoColor=white)](https://medium.com/@Skips1)
 
 
 
