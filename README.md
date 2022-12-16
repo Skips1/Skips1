@@ -1,11 +1,23 @@
-<h1 align="center">Hi 👋, I'm SKİPS      LOADİNG...</h1> 
+<h1 align="center">Hi 👋, I'm Skips     </h1> 
 
-### Hi, Welcome To My Github Profile 
+## Welcome to my Github profile 
 
 <img src="https://media.giphy.com/media/14u2ZI1XhkoZCU/giphy.gif" align="right" width="300" height="250">
 
+#### Let me tell you a little about myself.
+I am 20 years old. I live in the province of Canakkale, Turkey. I have been dealing with cryptocurrencies for 2 years. 
+In the first year of the 2-year period, I devoted myself to investments, and in the second year, I dealt with testnets.
+I'm currently trying to create nodes in new networks and become a developer. I really love what I do, I'm so happy to be here.
+I am aware that I have many shortcomings, I will work hard to improve myself. Thank you for visiting my profile, that's all for now.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skips1" alt="skips1" /></a> </p>
+
+See you...
+
+
+
+<a href="https://github.com/skips1/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=skips1&column=8&theme=gruvbox&no-frame=true"/>
+</a>
 
 
 
