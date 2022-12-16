@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Skips     </h1> 
 
-## Welcome to my Github profile 
+<h1 align="center">  Welcome to my Github profile </h1> 
 
-<img src="https://media.giphy.com/media/14u2ZI1XhkoZCU/giphy.gif" align="right" width="300" height="250">
+
+<div id="header" align="center">
+  <img src="<img src="https://media.giphy.com/media/JIN3ZlPCCrAd5SfM1x/giphy.gif" " height="250" width="600"/>
+
+
 
 #### Let me tell you a little about myself.
 I am 20 years old. I live in the province of Canakkale, Turkey. I have been dealing with cryptocurrencies for 2 years. 
