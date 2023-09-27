@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Skips     </h1> 
+<h1 align="center">Hi 👋, I'm RedKit     </h1> 
 
 <h1 align="center">  Welcome to my Github profile  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h1> 
 
