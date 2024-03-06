@@ -12,7 +12,7 @@
 
 #### Let me tell you a little bit about myself.
 
-I am 21 years old. I live in the province of Çanakkale. I have been dealing with cryptocurrencies for 3 years. In the first year of the 3-year process, I devoted myself to investments, and in the 3rd year, I dealt with testnets. I am currently trying to create nodes in new networks and become a developer. I really love what I do, I'm very happy to be here. I am aware that I have many shortcomings, I will work hard to improve myself. Thanks for visiting my profile, that's it for now.
+I am 22 years old. I live in the province of Çanakkale. I have been dealing with cryptocurrencies for 4 years. In the first year of the 4-year process, I devoted myself to investments, and in the 3rd year, I dealt with testnets. I am currently trying to create nodes in new networks and become a developer. I really love what I do, I'm very happy to be here. I am aware that I have many shortcomings, I will work hard to improve myself. Thanks for visiting my profile, that's it for now.
 
 
 See you...
