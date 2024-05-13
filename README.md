@@ -51,7 +51,7 @@ See you...
   
 
   <img src="https://media.giphy.com/media/14u2ZI1XhkoZCU/giphy.gif" align="center" height="150" width="300" />
-  <img src="https://media.giphy.com/media/14u2ZI1XhkoZCU/giphy.gif" align="center" height="150" width="300" />
+  
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=100&pause=10&color=008000&center=true&vCenter=true&height=40&lines=Error+404+Not+Found)](https://github.com/Skips1)
 
